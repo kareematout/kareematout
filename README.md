@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 
 I'm an **AWS Certified Software Engineer** and Computer Science student at San Jose State University with professional experience at **Leechy**. I specialize in full-stack development, iOS applications, and cloud technologies. Currently building the Leechy iOS app from the ground up while maintaining a 3.81 GPA.
 
-🔹 **Software Engineer (iOS)** at Leechy (Part-time) - Architecting iOS app with Swift  
+🔹 **Full-Stack Engineer** at Leechy - current 
 🔹 **Former Software Engineering Intern** at Leechy - Payment systems & backend security  
 🔹 **AWS Certified Cloud Practitioner** (2025-2028)  
 🔹 **Computer Science Student** at SJSU - Expected graduation May 2026
