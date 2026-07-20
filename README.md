@@ -22,6 +22,19 @@ source evidence.
 
 ## Selected Work
 
+### Leechy
+
+Production engineering across a rental and services marketplace spanning web,
+iOS, payments, authentication, databases, infrastructure, and releases.
+
+- Improved LCP from 3.1s to 2.1s
+- Improved p95 API latency from 780ms to 460ms
+- Integrated Stripe, PayPal, Apple Pay, Google Pay, and Venmo
+- Built secure authentication, database migrations, real-time updates, and
+  cross-platform workflows
+- Led iOS architecture and release work using SwiftUI, MVVM, and Swift
+  Concurrency
+
 ### ResuTrace
 
 An end-to-end AI resume platform for job analysis, evidence-grounded
@@ -49,21 +62,7 @@ explanations.
 - Rejects unsupported AI claims
 - Separates original and redacted source representations
 
-[View the CloudReferee repository](https://github.com/kareematout/CloudReferee)  
-[View the case study](https://portfolio-kareem-atout.web.app/projects/CloudReferee)
-
-### Leechy
-
-Production engineering across a rental and services marketplace spanning web,
-iOS, payments, authentication, data, infrastructure, and releases.
-
-- Improved LCP from 3.1s to 2.1s
-- Improved p95 API latency from 780ms to 460ms
-- Integrated Stripe, PayPal, Apple Pay, Google Pay, and Venmo
-- Built secure authentication, database migrations, real-time updates, and
-  cross-platform workflows
-- Led iOS architecture and release work using SwiftUI, MVVM, and Swift
-  Concurrency
+[View the CloudReferee case study](https://portfolio-kareem-atout.web.app/projects/CloudReferee)
 
 ### Additional Work
 
